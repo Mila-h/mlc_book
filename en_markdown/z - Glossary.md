@@ -408,30 +408,30 @@ response.
 **Selective attention** In the study of attention as it relates to human learning and performance, the term used to refer to the detection and selection of performance-related information in the performance environment.
 选择性注意（Selective attention）在注意力研究中与人类学习和表现有关，该术语指在操作环境中检测和选择与操作相关的信息。
 **Self-organization** The emergence of a specific stable pattern of behavior due to certain conditions characterizing a situation rather than to a specific control mechanism organizing the behavior; for example, in the physical world hurricanes self-organize when certain wind and water temperature conditions exist.
-
+自组织（Self-organization）一种特定的稳定行为模式的产生原因是某种情况的条件特征，而非组织行为的特定控制机制。例如，在自然界中的飓风就是在某种风况和水温条件具备时自组织而成的。
 **Sensory cortex** Cerebral cortex area located posterior to the central sulcus; it includes several specific regions that receive sensory information transmitted via the sensory nerves specific to that type of information.
-
+感觉皮层（Sensory cortex）位于中央沟后方的大脑皮层区域；它包括几个特定区域，接收通过特定感觉神经传递的感觉信息。
 **Sensory neurons** Nerve cells that send neural impulses to the CNS. Also called *afferent neurons*.
-
+感觉神经元（Sensory neurons）向中枢神经系统发送神经冲动的神经细胞。也称为传入神经元。
 **Serial motor skill** A motor skill involving a series of discrete skills.
-
+系列运动技能（Serial motor skill）包含一系列分离动作的运动技能。
 **Simple RT** The reaction time when the situation involves only one signal (stimulus) that requires only one response.
-
+简单反应时（Simple RT）只涉及一个信号（刺激）且只需要一种响应的反应时间。
 **Simplification** A part-task training method that involves reducing the difficulty of specific parts or features of a skill.
-
+简化法（Simplification）降低技能特定部分或特征难度的部分任务训练方法。
 **Skill** (a) An activity or task that has a specific purpose or goal to achieve, (b) an indicator of quality of performance, often referred to as “skill level.”
-
+技能（Skill）（a）有特定目的或目标要实现的活动或任务；（b）以操作质量为表征，通常称为“技能水平”。
 **Specificity of motor abilities hypothesis** A hypothesis that maintains that the many motor abilities in an individual are relatively independent.
-
-Specificity of practice hypothesis The view that motor skill learning is influenced by practice condition characteristics, especially the sensory/perceptual information available, performance context characteristics, and cognitive 
+运动能力的特异性假说（Specificity of motor abilities hypothesis）认为个体的许多运动能力相对独立的假说。
+**Specificity of practice hypothesis** The view that motor skill learning is influenced by practice condition characteristics, especially the sensory/perceptual information available, performance context characteristics, and cognitive 
 processes involved.
-
+练习的特异性假说（Specificity of practice hypothesis）该假说认为运动技能学习受练习条件特征特别是感觉/知觉信息、操作背景特征和所涉及的认知过程的影响。
 **Speed-accuracy trade-off** A characteristic of motor skill performance in which the speed at which a skill is performed is influenced by movement accuracy demands. The trade-off is that increasing speed yields decreasing accuracy, and vice versa.
-
+速度-准确性权衡（Speed-accuracy trade-off）运动技能表现中的一种特征，是指技能的执行速度受动作准确性要求的影响。权衡是指提高速度会降低准确性，反之亦然。
 **Stability** A behavioral steady state of a system that represents a preferred behavioral state and incorporates the ­notion ­of ­invariance by noting that a stable system will spontaneously return to a stable state after it is slightly ­perturbed; the influence on skill performance of perturbations, which are internal or external conditions that can disrupt perfor­mance.
-
+稳定性（Stability）系统的一种行为稳定的状态，代表了一种偏好的行为状态，并在不变性的概念中融入了这样一种特质，即系统在受到轻微扰动后会自发地回到稳定状态。
 **Stimulus-response compatibility** A characteristic of the ­spatial arrangement relationship between a stimulus and a response. This relationship includes the spatial arrangement of stimuli and the limb movements required to respond to them, and the physical characteristics or meaning of a stimulus and the type of response required. The degree of compatibility influences the amount of preparation time in a reaction time task involving stimulus and response choices.
-
+刺激-反应相容性（Stimulus-response compatibility）刺激和反应之间空间排列关系的特征，这种关系包括刺激和反应所要求的肢体动作的空间排列，以及刺激、反应的类型所要求的物理特性或意义。这种关系会影响刺激和反应选择的反应时任务中的准备时间量。
 **Stroop effect** A type of stimulus-response compatibility ­situation in which a color’s name and ink are the same or different. RT for saying the word is faster when both are ­the same color than when the word is a different ink color.
 
 **Supplementary motor area (SMA)** A cerebral cortex area located on the medial surface of the frontal lobe adjacent to portions of the primary motor cortex.
