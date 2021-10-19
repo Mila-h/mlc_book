@@ -75,27 +75,27 @@ involving physiological, emotional, and mental systems. Terms such as *anxiety* 
 **Complexity** The number of parts or components and the degree of information processing that characterize a skill; more-complex skills have more component parts and greater information-processing demands than less-complex skills.
 复杂度（Complexity）是指构成一项技能的部分或元素的数量及技能需要进行信息加工的数量；复杂的技能比不复杂的技能具有更多的组成部分和更高的信息处理需求。
 **Concurrent augmented feedback** Augmented feedback that is provided while a person is performing a skill or making a movement.
-
+同步追加反馈（Concurrent augmented feedback）当个体在执行一项技能或做一个动作时提供的追加反馈。
 **Cones** One of two types of photoreceptors in the retina; they detect bright light and play critical roles in central vision, visual acuity, and color vision.
-
+视锥细胞（Cones）视网膜中两种感光细胞之一，它们能接受强光刺激，并在中心视力、视力和色觉方面发挥关键作用。
 **Constant error (CE)** The signed (+/–) deviation from the ­target or criterion. It represents amount and direction of ­error and serves as a measure of performance bias.
-
+恒定误差（Constant error，CE）距离目标或标准的有符号（+/–）偏差，表示误差的大小和方向，是表示偏差的指标。
 **Contextual interference** The memory and performance ­disruption (i.e., interference) that results from performing multiple skills or variations of a skill within the context of practice.
-
+背景干扰（Contextual interference）在操作背景中执行多种技能或某项技能的变化所导致的记忆和表现中断。
 **Contextual interference effect** The learning benefit resulting from performing multiple skills in a high contextual interference practice schedule (e.g., random practice), rather than performing the skills in a low contextual interference schedule (e.g., blocked practice).
-
+背景干扰效应（Contextual interference effect）在高背景干扰练习条件（例如，随机练习）中执行多种技能产生的学习效益高于在低情境干扰练习条件（例如，封闭练习）。
 **Continuous motor skill** A motor skill with arbitrary movement beginning and end points. These skills usually involve repetitive movements.
-
+连续性运动技能（Continuous motor skill）具有任意动作起点和终点的运动技能。这些技能通常包含重复性动作。
 **Control parameters** Coordinated movement control variables (e.g., tempo, or speed, and force) that freely change according to the characteristics of an action situation. Under certain conditions, they can shift a system’s behavior from one coordination pattern to another coordination pattern. According to the dynamical systems view of motor control, when a control parameter is systematically varied (e.g., speed is increased from slow to fast), an order parameter may remain stable or change its stable state characteristic at a certain level of change of the control parameter.
-
+控制参数（Control parameters）根据运动技能执行环境的特征随意变化的协调运动控制变量（如音速或速度和力量）。在某种条件下，它们可以使系统的行为从一种协调模式转变为另一种协调模式。根据动态系统运动控制理论的观点，当控制参数系统性地逐步变化时（例如，速度从慢到快增加），有序参数可能会保持稳定，也可能在控制参数变化到某个水平的值时改变其稳定特征。
 **Coordination** The patterning of head, body, and/or limb motions relative to the patterning of environmental objects and events.
-
+协调（Coordination）头部、躯干和/或四肢相对于周围环境中物体和事件模式的运动模式。
 **Coordinative structures** Functionally specific collectives of muscles and joints that are constrained by the nervous system to act cooperatively to produce an action. Sometimes referred to as muscle, or motor, synergies.
-
+协调结构（Coordinative structure）具有特定功能的肌肉和关节集合，受神经系统约束而协同作用执行一项运动技能；有时被称为肌肉或运动协同。
 **Cornea** A clear surface that covers the front of the eye; it serves as an important part of the eye’s optical system.
-
+角膜（Cornea）覆盖眼睛前部的透明组织；它是眼睛光学系统的重要组成部分。
 **Cost-benefit trade-off** The cost (in terms of slower RT) and benefit (in terms of faster RT) that occur as a result of biasing the preparation of an action in favor of one of several possible actions (as opposed to preparing as if each pos-sible action were equally probable).
-
+成本-收益权衡（Cost-benefit trade-off）成本（指较慢的RT）和收益（指较快的RT）的产生是将一些可能动作作为优选动作来做倾向性准备的结果（而不是在每种可能动作的选择几率相等时做准备）。
 ■
 
 **Deafferentation** A procedure that researchers use to make proprioceptive feedback unavailable (through surgically ­severing or removing afferent neural pathways involved in the movement). It also can result from injury, surgery, or disease to afferent neural pathways involved in proprioception.
