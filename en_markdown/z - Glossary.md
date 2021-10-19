@@ -306,35 +306,35 @@ OPTIMAL theory of motor learning OPTIMAL is an acronym that stands for **O**pt
 **Parameters** Features of the generalized motor program that can be varied from one performance of a skill to another. The features of a skill that must be added to the invariant features of a generalized motor program before a person can perform a skill to meet the specific movement demands of a situation.
 参数（Parameters）每次运动执行中都可以改变的GMP特征；个体为满足某场景中具体的动作需求，必须在执行运动技能前在GMP固定特征的基础上加入的技能特征。
 **Parietal lobe** An area of the cerebral cortex that plays an important role in the control of voluntary movement, such as the integration of movement preparation and execution processes, by interacting with the premotor cortex, primary motor cortex, and SMA before and during movement.
-
+顶叶（Parietal lobe）大脑皮层的一个区域，在控制自主运动中起着重要作用，例如通过在运动前和运动中与运动前区、初级运动皮层和辅助运动区的相互作用，来整合运动准备和执行的过程。
 **Parkinson’s disease** A basal ganglia disorder caused by the lack of production of the neurotransmitter dopamine by the substantia nigra; the disease is characterized by slow movements (bradykinesia), a reduced amount of movement ­(akinesia), tremor, and muscular rigidity.
-
+帕金森病（Parkinson’s disease）一种基底神经节疾病，由黑质分泌的神经递质多巴胺缺乏引起的；该病的特点是运动缓慢（运动迟缓）、运动量减少（运动缺乏）、震颤和肌肉僵硬。
 **Perception-action coupling** The spatial and temporal coordination of vision and the hands or feet that enables people to perform eye-hand and eye-foot coordination skills; that is, the coordination of the visual perception of the object and the limb movement required to achieve the action goal.
-
+知觉-动作耦合（Perception-action coupling）视觉和手或脚的时空协调，使人们能够执行眼-手和眼-脚协调技能；也就是说，对物体的视觉感知与实现动作目标所需要的肢体运动之间的协调。
 **Performance** The behavioral act of executing a skill at a ­specific time and in a specific situation.
-
+表现（Performance）在特定时间和特定情况下执行技能的行为。
 **Performance bandwidth** In the context of providing augmented feedback, a range of acceptable performance error. Augmented feedback is given only when the amount of ­error is greater than this range.
-
+表现带宽（Performance bandwidth）在提供追加反馈的情境中可以接受的操作错误范围，只有当操作错误超出这一范围时，才提供追加反馈。
 **Performance curve** A line graph describing performance in which the level of achievement of a performance measure is plotted for a specific sequence of time (e.g., sec, min, days) or trials. The units of the performance measure are 
 on the ­­Y-axis (vertical axis) and the time units or trials 
 are on the X-axis (horizontal axis). This curve is sometimes referred to as a *learning curve*.
-
+表现曲线（Performance curve）用来描述一系列特定的时段中不同绩效水平的折线图（这里的时段可能是几秒钟、几分钟或几天）。绩效水平总是表示在Y轴（竖轴）上，而操作绩效所用的时间表示在X轴（横轴）上。此曲线有时称为学习曲线。
 **Performance outcome measures** A category of motor skill performance measures that indicate the outcome or result of performing a motor skill (e.g., how far a person walked, how fast a person ran a certain distance, how many points a basketball player scored).
-
+表现结果测量（Performance outcome measures）表明运动技能执行结果的一类运动技能表现测量指标（例如，一个人走多远，一段距离跑多快以及篮球运动员得多少分等）。
 **Performance plateau** While learning a skill, a period of time in which the learner experiences no improvement after ­having experienced consistent improvement. Typically, the learner then experiences further improvement with continued practice.
-
+表现平台期（Performance plateau）在学习一项运动技能的过程中，练习者的操作水平持续提高一段时间以后并没有任何进展。学习者通常只有坚持继续练习才会提高。
 **Performance production measures** A category of motor skill performance measures that indicate how the nervous, muscular, and skeletal systems function during the performance of a motor skill (limb kinematics, force, EEG, EMG, etc.).
-
+操作过程测量（Performance production measures）表明运动技能执行过程中神经、肌肉和骨骼系统如何工作的一类运动技能表现测量指标（例如，肢体运动学特征、力量、EEG、EMG等）。
 **Peripheral vision** The visual field outside the 2 to 5 degrees of central vision.
-
+周围视觉（Peripheral vision）2到5度中央视野以外的视野。
 **Plasticity** Changes in neuronal activity in the brain that are associated with shifts in brain region activation; these changes are commonly associated with behavioral changes or modification.
-
+可塑性（Plasticity）与大脑区域激活变化相关的大脑神经元活动的变化；这些变化通常与行为变化或修正有关。
 **Point-light technique** A research procedure used to determine the information people use to perceive and identify coordinated human actions. It involves placing LEDs or light-reflecting material on certain joints of a person, then filming or videotaping the person performing an action. When an observer views the film or video, he or she sees only the points of light of the LEDs or light-reflecting markers, which identify the joints in action.
-
+光点技术（Point-light technique）一种用于探讨个体知觉和识别人体协调运动模式时使用相对信息的研究程序。包括在个体的相关关节上放置LED或反射光的材料，然后拍摄或录制正在操作动作的个体，当观察者看到影片或录像时，仅能看到标记关节在运动。
 **Positive transfer** The beneficial effect of prior learning on the learning of a new skill or the performance of a skill in a new context.
-
+正迁移（Positive transfer）先前已经练习或操作过某项技能的经历有利于新技能的学习或在新的环境中操作该技能。
 **Post-KR interval** The interval of time between the presentation of augmented feedback and the beginning of the next trial.
-
+后结果反馈间隔（Post-KR interval）从提供追加反馈到下一次练习开始之前的时间间隔。
 **Power law of practice** A mathematical law describing the negatively accelerating change in rate of performance improvement during skill learning. Large amounts of improvement occur during early practice, but smaller improvement rates characterize further practice.
 
 **Practice variability** The variety of movement and context characteristics a person experiences while practicing a skill.
