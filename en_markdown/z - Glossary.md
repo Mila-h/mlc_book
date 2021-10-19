@@ -123,15 +123,15 @@ in the spatial positions of a limb or joint during a
 movement.
 位移（Displacement）描述运动过程中肢体或关节空间位置变化的运动学测量指标。
 **Distributed practice** A practice schedule in which the amount of rest between practice sessions or trials is ­relatively long.
-
+分散练习（Distributed practice）在练习单元或练习尝试之间休息时间相对较长的一种练习方法。
 **Diversification** The learner’s goal in the second stage of learning in Gentile’s model for learning open skills in which learners acquire the capability to modify the movement pattern according to environmental context characteristics.
-
+多样化（Diversification）在Gentile开放式技能学习模型中学习者在第二阶段的学习目标，即能够根据环境背景特征改变动作模式。
 **Dual-task procedure** An experimental procedure used in the study of attention to determine the amount of attention required to perform an action, or a part of an action. The procedure involves assessing the degree of interference caused by one task when a person is simultaneously performing another task.
-
+双任务程序（Dual-task procedure）在研究执行某个动作或某个动作的一部分所需的注意力资源时采用的一种实验程序。该程序主要是在个体同时执行两种任务时，评估一种任务对另一种任务造成的干扰程度。
 **Dynamic view of modeling** A theoretical view explaining the benefit of observing a skilled model demonstrate a skill. It proposes that the visual system is capable of automatically processing the observed movement in a way that constrains the motor control system to act accordingly, so that the person does not need to engage in cognitive mediation.
-
+榜样示范的动态视图（Dynamic view of modeling）是解释观察熟练模型利于学习的一种理论。该理论认为视觉系统能够以一种约束运动控制系统相应行动的方式自动处理观察到的运动，从而使人不需要进行认知调解活动。
 **Dynamical systems theory** An approach to describing and ­explaining the control of coordinated movement that emphasizes the role of information in the environment and the dynamic properties of the body and limbs. It is also known as the dynamic pattern theory.
-
+动态系统理论（Dynamical systems theory）一种描述和解释协调运动控制的方法，强调信息在环境中的作用以及躯干和四肢的动态特性。它也被称为动态模式理论。
 ■
 
 **Electroencephalography (EEG)** The recording of brain ac‑
