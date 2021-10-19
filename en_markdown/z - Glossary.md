@@ -41,15 +41,15 @@ involving physiological, emotional, and mental systems. Terms such as *anxiety* 
 ■
 
 **Basal ganglia** A subcortical collection of nuclei (caudate nucleus, putamen, and globus pallidus) buried within the ce-rebral hemispheres; they play an important role in the planning and initiation of movement and the control of antagonist muscles during movement. Also known as the *basal nuclei.*
-
+基底神经节（Basal ganglia）也称为基底核（basal nuclei）位于大脑半球内、皮层下的脑核集合(尾状核、壳核、黑质和苍白球)；它们在运动的计划和启动以及运动过程中拮抗肌的控制上起着重要的作用。
 **Bilateral transfer** Transfer of learning that occurs between two limbs.
-
+双侧迁移（Bilateral transfer）发生在两侧肢体之间的学习迁移。
 **Bimanual coordination** A motor skill that requires the simultaneous use of the two arms. The skill may require the two arms to move with the same or different spatial and/or temporal characteristics.
-
+双手协调（Bimanual coordination）一种需要同时运用双臂的运动技能。该技能需要双臂以相同或不同的空间和/或时间特征运动。
 **Biofeedback** A type of augmented feedback that provides ­information about physiological processes through the use of instrumentation (e.g., EMG biofeedback).
-
+生物反馈（Biofeedback）一种通过使用特定仪器（如肌电反馈）提供有关生理过程信息的追加反馈。
 **Brainstem** A brain structure located directly under the cerebral hemispheres and connected to the spinal cord; it contains three areas that are significantly involved in motor control: the pons, medulla, and reticular formation.
-
+脑干（Brainstem）位于大脑半球正下方并与脊髓相连的大脑结构；它包含三个与运动控制密切相关的区域：脑桥、髓质和网状结构。
 ■
 
 **Central-resource theories of attention** Attention-capacity theories that propose one central source of attentional resources for which all activities requiring attention compete.
