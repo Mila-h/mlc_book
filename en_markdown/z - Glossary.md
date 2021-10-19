@@ -282,29 +282,29 @@ tension, ­or force.
 ■
 
 **Observational learning** Learning a skill by observing a ­person performing the skill. Also known as *modeling.*
-
+观察学习（Observational learning）通过观察某人操作技能来学习该技能。也称为模型。
 **Open-loop control system** A control system in which all ­the information needed to initiate and carry out an action ­as planned is contained in the initial instructions to the ­effectors.
-
+开环控制系统（Open-loop control system）一种控制系统，启动和执行计划动作所需的所有信息都包含在发送给效应器的初始指令中。
 **Open motor skill** A motor skill performed in a moving environment where the feature of the environmental context in motion determines when to begin the action.
-
+开放性运动技能（Open motor skill）在运动环境中执行的运动技能，由环境的特征决定何时开始运动技能。
 **Optic chiasm** The place near the base of the brain where the optic nerve fibers meet and either continue to the same side or cross over to the opposite side of the brain.
-
+视交叉（Optic chiasm）视神经纤维在靠近大脑底部的位置交叉，接着在大脑同侧继续延伸或交叉到大脑的另一侧。
 **Optic nerve** Cranial nerve II; it serves as the means of information transmission from the retina to the brain.
-
+视神经（Optic nerve）颅神经II；将信息从视网膜传输到大脑。
 **Optical flow** The patterns of rays of light that strike the retina of the eye that emanate from and are specific to objects and features in the environment.
-
+光流（Optical flow）是指刺激眼球视网膜的光线模式。这些模式来自物体和环境特性，并由它们特征化。
 OPTIMAL theory of motor learning OPTIMAL is an acronym that stands for **O**ptimizing **P**erformance **T**hrough **I**ntrinsic **M**otivation and **A**ttention for **L**earning. The theory addresses issues that have been traditionally ignored by schema theory and the dynamical systems theory. It stresses that learning cannot be understood without considering the motivational and attentional influences on behavior.
-
+运动学习的“最优化”理论（OPTIMAL theory of motor learning）OPTIMAL是通过内在动机和注意力来优化表现的缩写词。该理论解决了传统上被模式理论和动力系统理论所忽视的问题。它强调，如果不考虑动机和注意力对行为的影响，就无法理解学习。
 **Order parameters** Functionally specific variables that define the overall behavior of a system. They enable a coordinated pattern of movement to be reproduced and distinguished from other patterns (e.g., relative phase). Known also as collective variables.
-
+有序参数（Order parameters）定义系统的整体行为的具体功能性变量；它们可以使运动协调模式再现，并区别于其他模式（例如，相对相位）；也被称为集合变量。
 **Organization** When applied to a complex motor skill, the ­relationships among the components of the skill.
-
+组织（Organization）构成复杂性运动技能的动作元素之间的关系。
 **Overlearning** Practice that continues beyond the amount needed to achieve a certain performance criterion.
-
+过度学习（Overlearning）指超过实现特定操作标准所需练习量以外的附加练习。
 ■
 
 **Parameters** Features of the generalized motor program that can be varied from one performance of a skill to another. The features of a skill that must be added to the invariant features of a generalized motor program before a person can perform a skill to meet the specific movement demands of a situation.
-
+参数（Parameters）每次运动执行中都可以改变的GMP特征；个体为满足某场景中具体的动作需求，必须在执行运动技能前在GMP固定特征的基础上加入的技能特征。
 **Parietal lobe** An area of the cerebral cortex that plays an important role in the control of voluntary movement, such as the integration of movement preparation and execution processes, by interacting with the premotor cortex, primary motor cortex, and SMA before and during movement.
 
 **Parkinson’s disease** A basal ganglia disorder caused by the lack of production of the neurotransmitter dopamine by the substantia nigra; the disease is characterized by slow movements (bradykinesia), a reduced amount of movement ­(akinesia), tremor, and muscular rigidity.
