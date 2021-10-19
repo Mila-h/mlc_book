@@ -252,33 +252,33 @@ tension, ­or force.
 **Motor learning** The acquisition of motor skills, the performance enhancement of learned or highly experienced motor skills, or the reacquisition of skills that are difficult to perform or cannot be performed because of ­injury, disease, and the like. Of interest are the behavioral and/or neurological changes that occur as a person learns a motor skill and the variables that influence those changes.
 运动学习（Motor learning）获得运动技能、提高已（熟练）掌握运动技能的表现，或重新获得由于受伤、疾病等原因而难以执行或无法执行的技能。主要研究当个体在学习一项运动技能时发生的行为和/或神经方面的变化以及影响这些变化的变量。
 **Motor neurons** Nerve cells that send neural impulses from the CNS to skeletal muscle fibers. Also called *efferent neurons*.
-
+运动神经元（Motor neurons）从中枢神经系统向骨骼肌纤维发送神经冲动的神经细胞。也称为传出神经元。
 **Motor program** A memory representation that stores information needed to perform an action.
-
+运动程序（Motor program）一种记忆表征，储存着完成动作所需要的信息。
 **Motor skills** Activities or tasks that require voluntary control over movements of the joints and body segments to achieve a goal.
-
+运动技能（Motor skills）需要自主控制关节和身体环节运动以实现某一目标的活动或任务。
 **Motor unit** The alpha motor neuron and all the muscle fibers it innervates; it serves as the functional unit of motor ­control for the innervation of the muscles involved in a movement.
-
+运动单位（Motor unit）α运动神经元及其支配的所有肌纤维；它是运动控制的功能单位，用于对运动参与肌肉进行神经支配。
 **Motor unit recruitment** The process of increasing the number of motor units needed to increase the number of muscle fibers active at any one time and thereby increase the amount of force the muscle can exert.
-
+运动单位募集（Motor unit recruitment）增加运动单位数量以增加在任何时候能一次激活的肌纤维数量的过程，从而增加肌肉可以施加的力。
 **Movement time (MT)** The interval of time between the ­initiation of a movement and the completion of the ­movement.
-
+运动时间（Movement time，MT）一个动作开始和完成之间的时间间隔。
 **Movements** Specific patterns of motion among joints and body segments used to accomplish action goals.
-
+动作（Movements）用于完成动作目标的关节和身体部位之间的特定运动模式。
 **Multiple-resource theories** Theories of attention proposing that there are several attentional resource mechanisms, each of which is related to a specific information-processing ­activity and is limited in how much information it can pro-cess simultaneously.
-
+多重资源理论（Multiple-resource theories）该理论提出注意有几种资源机制，每种机制完成对特定对象的加工，这些不同的注意资源机制决定了人们可以同时加工的信息数量。
 **Muscle spindles** A type of proprioceptor consisting of specialized muscle fibers that lie within the fibers of most skeletal muscles; they detect changes in muscle length.
-
+肌梭（Muscle spindles）一种由特殊化的肌纤维构成的本体感受器，位于大部分骨骼肌的肌纤维内，可以检测肌肉长度的变化。
 ■
 
 **Negative transfer** The negative effect of prior learning on the learning of a new skill or the performance of a skill in a new context.
-
+负迁移（Negative transfer）先前已经练习或操作过的某项技能阻碍新技能的学习或在新的环境中操作该技能。
 **Neuron** A nerve cell; the basic component of the nervous system.
-
+神经元（Neuron）神经系统的基本组成部分。
 **Nonlinear behavior** A behavior that changes in abrupt, nonlinear ways in response to systematic linear increases in the value of a specific variable (e.g., the change from smooth to turbulent water flow in a tube with a specific increase in water velocity; the change from a walking to a running gait with a specific increase in gait velocity).
-
+非线性行为（Nonlinear behavior）针对特定变量值系统的线性增加，而以突然的、非线性方式改变的行为（例如，水管中的水流在速度增加到一定值时由静水变为湍流；步态在速度增加到一定值时从行走变为跑步）。
 **Nonregulatory conditions** Features of the environmental context that have no influence or only an indirect influence on movement characteristics.
-
+非调节条件（Nonregulatory conditions）对运动特征没有影响或仅有间接影响的环境情境特征。
 ■
 
 **Observational learning** Learning a skill by observing a ­person performing the skill. Also known as *modeling.*
