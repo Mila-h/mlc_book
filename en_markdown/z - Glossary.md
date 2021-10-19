@@ -1,30 +1,29 @@
 Glossary
-
-**Ability** A general trait or capacity of an individual that is a determinant of a person’s achievement potential for the ­performance of specific skills.
-能力（Ability） 个体的一般特征或能力，它决定了一个人在完成特定技能方面的成就潜力。
+术语表
+**Ability** A general trait or capacity of an individual that is a determinant of a person’s achievement potential for the performance of specific skills.
+能力（Ability） 个体所具备的一般特征或能力，决定了一个人在特定技能执行中获得成功的潜力。
 **Absolute error (AE)** The unsigned deviation from the target or criterion, representing amount of error. A measure of the magnitude of an error without regard to the direction of the deviation.
 绝对误差（Absolute error，AE）距离目标或标准的无符号偏差，代表误差量，是一种不考虑偏差方向的误差大小的量度。
-**Acceleration** A kinematic measure that describes change in velocity during movement; we derive it from velocity by ­dividing change in velocity by change in time.
+**Acceleration** A kinematic measure that describes change in velocity during movement; we derive it from velocity by dividing change in velocity by change in time.
 加速度（Acceleration）描述运动过程中速度变化的运动学指标，计算方式为速度的变化除以时间的变化。
 **Action effect hypothesis** The proposition that actions are best planned and controlled by their intended effects. When related to attentional focus, this hypothesis proposes that the learning and performance of skills are optimized when the performer’s attention is directed to the intended outcome of the action rather than on the movements themselves.
-动作效果假说（Action effect hypothesis）主张动作最好由其预期效果来计划和控制。关于注意焦点，该假设提出当执行者的注意力指向动作的预期结果而不是动作本身时，技能的学习和表现会得到优化。
+动作效果假说（Action effect hypothesis）该假说主张动作最好由其预期效果来计划和控制。当涉及注意焦点时，该假设提出当执行者的注意力指向动作的预期结果而不是动作本身时，技能的学习和表现就会得到优化。
 **Action preparation** The activity that occurs between the intention to perform an action and the initiation of that action. Sometimes, the term *motor programming* is used to refer to this preparation activity.
-动作准备（Action preparation）在执行某一动作的意图与该行动开始之间发生的活动。有时也用术语“动作计划”来代表这种活动。
+动作准备（Action preparation）在执行某一动作的意图与该动作开始之间发生的活动。有时也用术语*运动编程*来指代这种准备活动。
 **Actions** See *motor* *skills.*
-行动（Actions）参见运动技能（motor skill）
+动作或行动（Actions）参见运动技能（motor skills）。**译者注**：*Actions*在本书中等同于*motor skills*，因此将其译为*动作*或*运动技能*，但在与表示动作含义的*movements*区分时译为*行动*。
 **Affordance** The reciprocal fit between the characteristics of a person and the characteristics of the environment that permit a specific action to occur, such as stairs having the physical characteristics to permit stair climbing.
-可供性（Affordance）人的特征与环境特征之间的双向匹配，这种匹配使得特定的运动技能得以执行，例如楼梯必须满足一定的物理特征才能允许人进行攀爬。
-**Arousal** The general state of excitability of a person, 
-involving physiological, emotional, and mental systems. Terms such as *anxiety* and *intensity* are sometimes used synonymously in psychological contexts.
-唤醒（Arousal）人的一般激活状态，这种激活状态涉及生理、情绪和心理系统。在心理语境中有时与焦虑和紧张等术语同义使用。
+可供性（Affordance）人与环境各自特征之间的双向匹配，这种匹配使得特定的运动技能得以执行，例如，楼梯必须满足一定的物理特征才能允许人进行攀爬。
+**Arousal** The general state of excitability of a person, involving physiological, emotional, and mental systems. Terms such as *anxiety* and *intensity* are sometimes used synonymously in psychological contexts.
+唤醒（Arousal）人的一般兴奋状态，这种兴奋状态涉及生理、情绪和心理系统。在心理语境中有时与*焦虑*和*紧张*等术语同义使用。
 **Ascending tracts** Sensory neural pathways in the spinal cord and brainstem that connect with the various sensory areas of the cerebral cortex and cerebellum.
-上行传导束（Ascending tracts）脊髓和脑干中与大脑皮层和小脑的不同感觉区域相连的感觉神经通路，
+上行传导束（Ascending tracts）在脊髓和脑干中与大脑皮层和小脑的不同感觉区域相连的感觉神经通路，
 **Associative stage** The second stage of learning in the Fitts and Posner model. An intermediate stage on the learning stages continuum.
-联结阶段（Associative stage）在Fitts和Posner模型中学习的第二阶段。指连续学习阶段的中间阶段。
+联结阶段（Associative stage）在Fitts和Posner模型中学习的第二阶段，指连续学习阶段的中间阶段。
 **Asymmetric transfer** Bilateral transfer in which there is a greater amount of transfer from one limb than from the other limb.
-非对称迁移（Asymmetric transfer）锻炼某侧肢体会带来比锻炼另一侧肢体更大的两侧迁移量。
+非对称迁移（Asymmetric transfer）锻炼一侧肢体会比锻炼另一侧肢体带来更大迁移量的双侧迁移。
 **Attention** In human performance, characteristics associated with consciousness, awareness, and cognitive effort as they relate to the performance of skills. Of particular interest are limitations associated with these characteristics on the simultaneous performance of multiple skills and the detection of relevant information in the performance environment.
-注意（Attention）人们对动作技能的知觉、认知以及意识状态。人类信息加工系统的能力是有限的，在操作环境中同时执行多种技能和观察相关信息时注意就会受限。
+注意力（Attention）人们对运动技能的知觉、意识以及认知状态。人类信息加工系统的能力是有限的，在操作环境中同时执行多种技能和观察相关信息时注意力就会受限。
 **Attentional focus** The directing of attention to specific characteristics in a performance environment, or to action preparation activities.
 注意焦点（Attention focus）将注意力指向到动作环境中的特定特征或准备活动。
 **Attractors** The stable behavioral steady states of systems. In terms of human coordinated movement, attractors characterize preferred behavioral states, such as the in-phase and antiphase states for rhythmic bimanual finger movements.
