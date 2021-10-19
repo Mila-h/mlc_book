@@ -1,7 +1,7 @@
 Glossary
 
 **Ability** A general trait or capacity of an individual that is a determinant of a person’s achievement potential for the ­performance of specific skills.
-能力（Ability） 一个人的一般特征或能力，它决定了一个人在完成特定技能方面的成就潜力。
+能力（Ability） 个体的一般特征或能力，它决定了一个人在完成特定技能方面的成就潜力。
 **Absolute error (AE)** The unsigned deviation from the target or criterion, representing amount of error. A measure of the magnitude of an error without regard to the direction of the deviation.
 绝对误差（Absolute error，AE）距离目标或标准的无符号偏差，代表误差量，是一种不考虑偏差方向的误差大小的量度。
 **Acceleration** A kinematic measure that describes change in velocity during movement; we derive it from velocity by ­dividing change in velocity by change in time.
@@ -22,22 +22,22 @@ involving physiological, emotional, and mental systems. Terms such as *anxiety* 
 **Associative stage** The second stage of learning in the Fitts and Posner model. An intermediate stage on the learning stages continuum.
 联结阶段（Associative stage）在Fitts和Posner模型中学习的第二阶段。指连续学习阶段的中间阶段。
 **Asymmetric transfer** Bilateral transfer in which there is a greater amount of transfer from one limb than from the other limb.
-
+非对称迁移（Asymmetric transfer）锻炼某侧肢体会带来比锻炼另一侧肢体更大的两侧迁移量。
 **Attention** In human performance, characteristics associated with consciousness, awareness, and cognitive effort as they relate to the performance of skills. Of particular interest are limitations associated with these characteristics on the simultaneous performance of multiple skills and the detection of relevant information in the performance environment.
-
+注意（Attention）人们对动作技能的知觉、认知以及意识状态。人类信息加工系统的能力是有限的，在操作环境中同时执行多种技能和观察相关信息时注意就会受限。
 **Attentional focus** The directing of attention to specific characteristics in a performance environment, or to action preparation activities.
-
+注意焦点（Attention focus）将注意力指向到动作环境中的特定特征或准备活动。
 **Attractors** The stable behavioral steady states of systems. In terms of human coordinated movement, attractors characterize preferred behavioral states, such as the in-phase and antiphase states for rhythmic bimanual finger movements.
-
+吸引子（Attractors）系统稳定的行为稳定状态。对于人体协调运动来说，吸引子表征了偏好的行为状态，比如双手手指节律性运动中的同相和反相状态。
 **Augmented feedback** A  generic term used to describe information about a performance that supplements the sensory feedback and comes from a source external to the performer; it is sometimes referred to as *extrinsic* or 
 *external* feedback.
-
+追加反馈（Augmented feedback）用于描述与技能操作相关的感觉反馈之外的附加信息，来自执行者外部的信息源；有时也被称为外在反馈或外部反馈。
 **Automaticity** The term used to indicate that a person performs a skill, or engages in certain information-processing activities, with little or no demands on attention capacity.
-
+自动性（Automaticity）指人们执行某种运动技能或信息处理活动时对注意力要求很少或没有要求。
 **Autonomous stage** The third stage of learning in the Fitts and Posner model. The final stage on the learning continuum. Also called the *automatic stage.*
-
+自主阶段（Autonomous stage）在Fitts和Posner模型中学习的第三阶段。连续学习阶段的最后阶段。也称为自动化阶段（automatic stage）
 **Axons** Extensions from a neuron’s cell body that transmit neural impulses to other neurons, structures in the CNS, or muscles; a neuron has only one axon, although most axons branch into many branches. Also called *nerve fibers.*
-
+轴突（Axons）神经元细胞体的延伸，将神经冲动传递给其他神经元、中枢神经系统结构或肌肉；一个神经元只有一个轴突，但大多数轴突会形成许多分支。也称为神经纤维（nerve fibers）
 ■
 
 **Basal ganglia** A subcortical collection of nuclei (caudate nucleus, putamen, and globus pallidus) buried within the ce-rebral hemispheres; they play an important role in the planning and initiation of movement and the control of antagonist muscles during movement. Also known as the *basal nuclei.*
