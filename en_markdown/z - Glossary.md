@@ -336,35 +336,35 @@ are on the X-axis (horizontal axis). This curve is sometimes referred to as a *l
 **Post-KR interval** The interval of time between the presentation of augmented feedback and the beginning of the next trial.
 后结果反馈间隔（Post-KR interval）从提供追加反馈到下一次练习开始之前的时间间隔。
 **Power law of practice** A mathematical law describing the negatively accelerating change in rate of performance improvement during skill learning. Large amounts of improvement occur during early practice, but smaller improvement rates characterize further practice.
-
+练习的幂定律（Power law of practice）描述技能学习过程中操作能力提高速度变化的数学定律。在练习的早期，提高速度很快，但随着练习不断地持续，提高的速度会越来越慢。
 **Practice variability** The variety of movement and context characteristics a person experiences while practicing a skill.
-
+练习变异性（Practice variability）练习者在练习技能过程中体验到的动作特征和背景特征的变化。
 **Prehension** The action of reaching for and grasping an object that may be stationary or moving.
-
+抓握（Prehension）伸手抓住静止或运动物体的动作。
 **Premotor area** A cerebral cortex area located in the frontal lobe just anterior to the primary motor cortex.
-
+运动前区（Premotor area）位于大脑皮层额叶区，在初级运动皮层正前方。
 **Prescriptive KP** A verbal knowledge of performance (KP) statement that describes errors made during the perfor­mance of a skill and states (i.e., prescribes) what needs to be done to correct them.
-
+说明性操作反馈（Prescriptive KP）一种言语绩效反馈，不仅描述个体在操作中出现的错误，还会指出（说明）如何来纠正这些错误。
 **Primary motor cortex** A cerebral cortex area located in the frontal lobe just anterior to the central sulcus; it contains motor neurons that send axons to specific skeletal muscles throughout the body.
-
+初级运动皮层（Primary motor cortex）位于额叶中央沟正前方的大脑皮层区，包含将信号发送到全身特定骨骼肌的运动神经元。
 **Proactive interference** A cause of forgetting because of activity that occurs prior to the presentation of information to be ­remembered.
-
+前摄干扰（Proactive interference）即遗忘出现的一种原因是因为活动发生在记忆信息呈现之前。
 **Procedural knowledge** Knowledge that enables a person to know how to do a skill; this knowledge typically is difficult to verbalize or is not verbalizable.
-
+程序性知识（Procedural knowledge）使个体知道如何操作一项技能的知识；这种知识通常难以表达或无法表达。
 **Proprioception** The perception of limb, body, and head movement characteristics and the force and effort associated with muscle contraction. Afferent neural pathways send to the central nervous system proprioceptive information about characteristics such as limb movement direction, ­location in space, velocity, and muscle force.
-
+本体感觉（Proprioception）对四肢、躯干和头部的运动特征以及与肌肉收缩相关的力量的感知；传入神经通路将本体感觉信息，如肢体运动方向、空间位置、速度以及肌肉力，发送到中枢神经系统。
 **Proprioceptors** Sensory neurons located in the muscles, tendons, ligaments, and joints. These neurons pick up information about body and limb position and changes in position.
-
+本体感受器（Proprioceptors）位于肌肉、肌腱、韧带以及关节处的感觉神经元。这些神经元可以获取肢体位置以及位置变化的信息。
 **Psychological refractory period (PRP)** A delay period during which a person seems to put planned action “on hold” while executing a previously initiated action.
-
+心理不应期（Psychological refractory period，PRP）一段延迟阶段，在此期间，人在实施前一个已经开始的动作同时，似乎会将计划好的动作“放置”不做。
 **Pupil** The opening in the eye that lets in light; its diameter ­increases and decreases according to the amount of light detected by the eye.
-
+瞳孔（Pupil）光线进入眼睛的开口；它的直径会根据感知到的光量进行调节。
 ■
 
 **Qualitative augmented feedback** Augmented feedback that is descriptive in nature (e.g., using such terms as *good, long*), and indicates the quality of performance.
-
+定性化追加反馈（Qualitative augmented feedback）追加反馈的一种，描述和显示操作的性质（如好、长等）和质量。
 **Quantitative augmented feedback** Augmented feedback that includes a numerical value related to the magnitude of a performance characteristic (e.g., the speed of a pitched baseball).
-
+定量化追加反馈（Quantitative augmented feedback）追加反馈的一种，包括与操作特征的幅度相关的数值信息（如投棒球的速度）
 ■
 
 **Reaction time (RT)** The interval of time between the onset of a signal (stimulus) and the initiation of a response 
