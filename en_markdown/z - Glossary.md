@@ -369,44 +369,44 @@ are on the X-axis (horizontal axis). This curve is sometimes referred to as a *l
 
 **Reaction time (RT)** The interval of time between the onset of a signal (stimulus) and the initiation of a response 
 (e.g., the amount of time between the “go” signal for a swimming sprint race start and the swimmer’s first observable movement).
-
+反应时（间）（Reaction time，RT）信号（刺激）开始和反应开始之间的时间间隔（例如，短距离游泳比赛的“开始”信号和观察到的游泳运动员第一次动作之间的时间间隔）。
 **Recall test** An explicit memory test that requires a person to produce a required response with few, if any, available cues or aids.
-
+回忆测试（Recall test）一种对外显记忆的测试，要求一个人在几乎没有可用线索或帮助的情况下按要求做出反应。
 **Recognition test** An explicit memory test that requires a ­person to select a correct response from several alternative responses.
-
+识别测试（Recognition test）一种对内隐记忆的测试，要求一个人从几个备选答案中选择正确答案。
 **Regulatory conditions** Features of the environmental context to which movements must conform if they are to achieve the action goal. They regulate spatial and temporal aspects of the movement.
-
+调节条件（Regulatory conditions）如果要实现动作目标，动作就必须符合环境情境的特征。它们决定动作的时空特征。
 **Relative phase** An index of the coordination between two limb segments or limbs during the performance of a cyclic movement. It is based on calculating the phase angles for each limb segment or limb at a specific point in time and then subtracting one phase angle from the other. Relative phase ranges from 0 (or 360 degrees), which indicates an in-phase relationship between the limb segments or limbs, to 180 degrees, which indicates an antiphase (or out-of-phase) relationship.
-
+相对相位（Relative phase）：在循环运动过程中，评估两个肢体段或肢体之间协调性的指标。首先计算每个肢体段或肢体在特定时间点的相位角，然后从一个相位角中减去另一个相位角。相对相位范围从0（或360度）到180度。前者表示肢体段或肢体之间的同相关系，后者表示反相（或异相）关系。
 **Relative time** The proportion, or percentage, of the total amount of time required by each component of a skill ­during the performance of that skill.
-
+相对时间（Relative time）运动技能执行过程中技能的每一个组件占总执行时间的比例或百分比。
 **Response time** The time interval involving both reaction 
 time and movement time; that is, the time from the 
 onset of a signal (stimulus) to the completion of a 
 response.
-
+响应时间（Response time）包括反应时和动作时的时间间隔；即从信号（刺激）开始到响应完成的时间
 **Retention test** A test of a practiced skill that a learner performs following an interval of time after practice has ceased.
-
+保持测试（Retention test）技能练习结束后，间隔一段时间再对技能进行测试。
 **Retina** The eye structure that lines the back wall of the eye; as an extension of the brain, it contains the neuroreceptors that transmit visual information to the brain.
-
+视网膜（Retina）沿眼睛后壁排列的结构；作为大脑的延伸，它包含了将视觉信息传递给大脑的神经受体。
 **Retrieval** A memory process involving the search through long-term memory for information needed to perform the task at hand.
-
+提取（Retrieval）一种在长时记忆中搜索执行手头任务所需信息的记忆过程。
 **Retroactive interference** A cause of forgetting because of activity occurring during the retention interval.
-
+倒摄干扰（Retroactive interference）遗忘出现的一个原因是因为活动发生在记忆保持期间。
 **Rods** One of two types of photoreceptors in the retina; they detect low levels of light and are important for peripheral vision.
-
+视杆细胞（Rods）视网膜中感受细胞的一种；它们能接受弱光刺激，在周围视觉中发挥关键作用。
 **Root-mean-squared error (RMSE)** An error measure used for continuous skills to indicate the amount of error between the performance curve produced and the criterion performance curve for a specific amount of time during which performance is sampled.
-
+均方根误差（Root-mean-squared error）一种用于连续运动技能的误差测量指标，表示连续技能特定时间段的操作曲线和目标曲线之间的误差值。
 ■
 
 **Schema** A rule or set of rules that serves to provide the basis for a decision. In Schmidt’s schema theory, an abstract ­representation of rules governing movement.
-
+模式（Schema）一种或一套为制定决策提供基础的规则。在Schmidt模式理论中，由抽象的表征规则来管理运动。
 **Sclera** The firm, white capsule of the eye; we commonly call the anterior portion of it the “white” of the eye.
-
+巩膜（Sclera）眼睛坚硬的白色囊状结构；通常称其前部为眼白。
 **Segmentation** A part-task training method that involves separating the skill into parts and then practicing the parts so that after one part is practiced, it is then practiced together with the next part, and so on. Also known as the progressive part method.
-
+分割法（Segmentation）属于分解练习法的一种，是指在技能学习中把技能合理地分割成若干个部分，每完成一部分的练习，将所练习内容与前面练习过的部分结合在一起进行练习，直到技能学习完成。这种方法也称为渐进部分练习法。
 **Selective attention** In the study of attention as it relates to human learning and performance, the term used to refer to the detection and selection of performance-related information in the performance environment.
-
+选择性注意（Selective attention）在注意力研究中与人类学习和表现有关，该术语指在操作环境中检测和选择与操作相关的信息。
 **Self-organization** The emergence of a specific stable pattern of behavior due to certain conditions characterizing a situation rather than to a specific control mechanism organizing the behavior; for example, in the physical world hurricanes self-organize when certain wind and water temperature conditions exist.
 
 **Sensory cortex** Cerebral cortex area located posterior to the central sulcus; it includes several specific regions that receive sensory information transmitted via the sensory nerves specific to that type of information.
