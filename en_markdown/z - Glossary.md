@@ -1,7 +1,7 @@
 Glossary
 
 **Ability** A general trait or capacity of an individual that is a determinant of a person’s achievement potential for the ­performance of specific skills.
-
+能力（Ability） 一个人的一般特征或能力，它决定了一个人在完成特定技能方面的成就潜力。
 **Absolute error (AE)** The unsigned deviation from the target or criterion, representing amount of error. A measure of the magnitude of an error without regard to the direction of the deviation.
 
 **Acceleration** A kinematic measure that describes change in velocity during movement; we derive it from velocity by ­dividing change in velocity by change in time.
