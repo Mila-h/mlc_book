@@ -99,29 +99,29 @@ involving physiological, emotional, and mental systems. Terms such as *anxiety* 
 ■
 
 **Deafferentation** A procedure that researchers use to make proprioceptive feedback unavailable (through surgically ­severing or removing afferent neural pathways involved in the movement). It also can result from injury, surgery, or disease to afferent neural pathways involved in proprioception.
-
+传入神经阻滞（Deafferentation）一种研究人员用来让本体感觉反馈不可用的程序（通过手术切断或去除运动中涉及的传入神经通路）；它也可能由涉及本体感觉传入神经通路的损伤、手术或疾病引起。
 **Declarative knowledge** Knowledge about what to do in a situation; this knowledge typically is verbalizable.
-
+陈述性知识（Declarative knowledge）指在某种情况下知道该做什么的知识；这种知识通常可用语言表达。
 **Degrees of freedom** The number of independent components in a control system and the number of ways each component can vary.
-
+自由度（Degrees of freedom）控制系统中独立组件的数量以及每个组件可变化方式的数量。
 **Degrees of freedom problem** A control problem that occurs in the designing of a complex system that must produce a specific result. The design problem involves determining how to constrain the system’s many degrees of freedom so that it can produce the specific result.
-
+自由度问题（Degrees of freedom problem）设计复杂系统产生特定结果时面临的一类控制问题；设计中面临的问题包括如何约束系统的众多自由度，使其产生特定的结果。
 **Dendrites** Extensions from a neuron’s cell body that receive neural impulses from other neurons; a neuron may have none or as many as thousands of dendrites.
-
+树突（Dendrites）神经元细胞体的延伸，接收来自其他神经元的神经冲动；一个神经元可能没有树突，也可能有多达数千个树突。
 **Descending tracts** Motor neural pathways that descend from the brain through the spinal cord.
-
+下行传导束（Descending tracts）是从大脑通过脊髓下行的运动神经通路。
 **Descriptive KP** A verbal knowledge of performance (KP) statement that describes only the error a person has made during the performance of a skill.
-
+描述性操作反馈（Descriptive KP）一种言语绩效反馈，仅描述一个人在技能执行过程中所犯的错误。
 **Diencephalon** A component of the forebrain located between the cerebrum and the brainstem; it contains the thalamus and hypothalamus.
-
+间脑（Diencephalon）前脑的一个组成部分，位于大脑和脑干之间；它包含丘脑和下丘脑。
 **Discrete motor skill** A motor skill with clearly defined move­ment beginning and end points, usually requiring a simple movement.
-
+分离性运动技能（Discrete motor skill）具有明确动作起点和终点的运动技能，通常该动作都很简单。
 **Discrimination RT** The reaction time when the situation ­involves more than one signal but only one response, which is to only one of the signals; the other signals require no ­response.
-
+辨别反应时（Discrimination RT）涉及多个信号但只有其中一个信号需要响应，其他信号都不需要响应的反应时。
 **Displacement** A kinematic measure describing changes 
 in the spatial positions of a limb or joint during a 
 movement.
-
+位移（Displacement）描述运动过程中肢体或关节空间位置变化的运动学测量指标。
 **Distributed practice** A practice schedule in which the amount of rest between practice sessions or trials is ­relatively long.
 
 **Diversification** The learner’s goal in the second stage of learning in Gentile’s model for learning open skills in which learners acquire the capability to modify the movement pattern according to environmental context characteristics.
