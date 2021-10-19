@@ -433,27 +433,27 @@ processes involved.
 **Stimulus-response compatibility** A characteristic of the ­spatial arrangement relationship between a stimulus and a response. This relationship includes the spatial arrangement of stimuli and the limb movements required to respond to them, and the physical characteristics or meaning of a stimulus and the type of response required. The degree of compatibility influences the amount of preparation time in a reaction time task involving stimulus and response choices.
 刺激-反应相容性（Stimulus-response compatibility）刺激和反应之间空间排列关系的特征，这种关系包括刺激和反应所要求的肢体动作的空间排列，以及刺激、反应的类型所要求的物理特性或意义。这种关系会影响刺激和反应选择的反应时任务中的准备时间量。
 **Stroop effect** A type of stimulus-response compatibility ­situation in which a color’s name and ink are the same or different. RT for saying the word is faster when both are ­the same color than when the word is a different ink color.
-
+斯特鲁普效应（Stroop effect）一种提供颜色和字面意义相同或不同词的刺激-反应相容情况。RT表示测试者说颜色和其字面意义一致的词时速度快于说颜色和其字面意义不符的词。
 **Supplementary motor area (SMA)** A cerebral cortex area located on the medial surface of the frontal lobe adjacent to portions of the primary motor cortex.
-
+辅助运动区（Supplementary motor area）位于额叶内侧表面的大脑皮层区，与部分初级运动皮层相邻。
 **Symmetric transfer** Bilateral transfer in which the amount of transfer is similar from one limb to another, no matter which limb is used first.
-
+对称迁移（Symmetric transfer）锻炼任何一侧肢体都带来大致相同的两侧迁移量。
 ■
 
 **Task-intrinsic feedback** The sensory feedback that is naturally available while performing a skill.
-
+任务内部反馈（Task-intrinsic feedback）在执行某项技能时自然获得的感觉反馈。
 **Taxonomy** A classification system organized according to ­relationships among the component characteristics of the group of items or objects being classified.
-
+分类法（Taxonomy）根据被分类项目或物体的成分特征之间的关系组织起来的一种分类系统。
 **Terminal augmented feedback** Augmented feedback that is provided after a person has completed the performance of a skill or a movement.
-
+末端追加反馈（Terminal augmented feedback）在个体完成一项技能或动作后提供的追加反馈。
 **Transcranial magnetic stimulation (TMS)** A noninvasive method of assessing brain activity that involves a short burst (referred to as a pulse) of a field of magnetic waves directed at a specific area of the cortex. This pulse of magnetic activity temporarily disrupts the normal activity in that area of the brain, which allows researchers to observe behavior when that area is not functioning.
-
+经颅磁刺激（Transcranial magnetic stimulation，TMS）是一种评估大脑活动的非侵入性方法，包含定位到大脑皮层特定区域的短脉冲磁波（称为脉冲）。这种磁活动脉冲会暂时扰乱大脑该区域的正常活动，这使得研究人员能够在该区域不起作用时观察其行为。
 **Transfer-appropriate processing theory** An explanation of positive transfer proposing that transfer is due to the similarity in the cognitive processing characteristics required by the two skills or two performance situations.
-
+迁移适当加工理论（Transfer-appropriate processing theory）对正迁移的一种解释，认为迁移是由于两种技能所要求的认知加工特征相似或两种操作背景相似所致。
 **Transfer of learning** The influence of prior learning on the learning of a new skill or the performance of a skill in a new context.
-
+学习迁移（Transfer of learning）先前已经练习或操作过的某项技能将会影响新技能的学习或在新的环境中操作该项技能。
 **Transfer test** A test in which a person performs a skill that is different from the skill that he or she practiced or performs the practiced skill in a context or situation different from the practice context or situation.
-
+迁移测试（Transfer test）一种测试方法。指个体操作的技能或操作背景的特征与练习时不同。
 ■
 
 **Variable error (VE)** An error score representing the variability (or conversely, the consistency) of performance.
