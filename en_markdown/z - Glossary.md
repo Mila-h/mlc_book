@@ -228,29 +228,29 @@ tension, ­or force.
 **Lens** The transparent eye structure that sits just behind the iris; it allows the eye to focus at various distances.
 晶状体（Lens）位于虹膜后方的透明组织；功能是使眼睛在不同距离聚焦。
 **Limbic system** A group of brain structures consisting of parts of the frontal and temporal lobes of the cerebral cortex, the thalamus and hypothalamus, and the nerve fibers that interconnect these parts and other CNS structures; it is involved in the learning of motor skills.
-
+边缘系统（Limbic system）一组大脑结构，包括大脑皮层的额叶和颞叶部分、丘脑和下丘脑，以及连接这些部分和其他中枢神经系统结构的神经纤维；它与运动技能的学习密切相关。
 **Long-term memory** A component system in the structure ­of memory that serves as a relatively permanent storage repository for information.
-
+长时记忆（Long-term memory）记忆结构中的一个成分，充当信息相对持久的存储库。
 ■
 
 **Manual aiming skills** Motor skills that involve arm, hand, and/or finger movements to a target; for example, putting a key into a keyhole, threading a needle with thread, and typing on a computer keyboard.
-
+手动瞄准技能（Manual aiming skills）手臂、手和/或手指向目标移动的运动技能；例如，把钥匙放进钥匙孔，用线穿针，在电脑键盘上打字。
 **Massed practice** A practice schedule in which the amount of rest between practice sessions or trials is very short.
-
+集中练习（Massed practice）在练习单元或练习尝试之间休息时间很短的练习方法。
 **Mental practice** The cognitive rehearsal of a physical skill ­in the absence of overt physical movements; it can take the form of thinking about the cognitive or procedural aspects of a motor skill, or of engaging in visual or kinesthetic ­imagery of the performance of a skill or part of a skill.
-
+心理练习（Mental practice）在不进行外显身体动作的条件下，在头脑中对技能进行认知复述的练习方法。
 **Modeling** The use of demonstration as a means of conveying information about how to perform a skill.
-
+榜样示范法（Modeling）将示范作为一种传达执行技能操作信息的方式。
 **Motor ability** An ability that is specifically related to the ­performance of a motor skill.
-
+运动能力（Motor ability）一种与运动技能表现专门相关的能力。
 **Motor control** How our neuromuscular system functions to activate and coordinate the muscles and limbs involved in the performance of a motor skill. Researchers may investigate this question while a person is learning a new skill or performing a well-learned or highly experienced skill.
-
+运动控制（Motor control）研究人员通过个体学习一项新技能或执行一项熟练掌握的技能时研究神经肌肉系统是如何激活和协调参与运动技能执行的肌肉和肢体。
 **Motor development** Human development from infancy to old age with specific interest in issues related to either motor learning or motor control.
-
+运动发育（Motor development）人类从婴儿发育到老年的过程中与运动学习或运动控制有关的问题。
 **Motor equivalence** The capability of the motor control system to enable a person to achieve an action goal in a variety of situations and conditions (e.g., writing your signature with either hand).
-
+运动等效（Motor equivalence）运动控制系统使人在各种情况和条件下完成动作目标的能力（例如，用不同的手签名）。
 **Motor learning** The acquisition of motor skills, the performance enhancement of learned or highly experienced motor skills, or the reacquisition of skills that are difficult to perform or cannot be performed because of ­injury, disease, and the like. Of interest are the behavioral and/or neurological changes that occur as a person learns a motor skill and the variables that influence those changes.
-
+运动学习（Motor learning）获得运动技能、提高已（熟练）掌握运动技能的表现，或重新获得由于受伤、疾病等原因而难以执行或无法执行的技能。主要研究当个体在学习一项运动技能时发生的行为和/或神经方面的变化以及影响这些变化的变量。
 **Motor neurons** Nerve cells that send neural impulses from the CNS to skeletal muscle fibers. Also called *efferent neurons*.
 
 **Motor program** A memory representation that stores information needed to perform an action.
