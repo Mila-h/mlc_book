@@ -457,23 +457,23 @@ processes involved.
 ■
 
 **Variable error (VE)** An error score representing the variability (or conversely, the consistency) of performance.
-
+可变误差（Variable error，VE）指描述操作变异性（或一致性）的误差值。
 **Velocity** A kinematic measure describing the rate of change of an object’s position with respect to time. It is derived by dividing displacement by time (e.g., m/sec, km/hr).
-
+速度（Velocity）描述物体位置相对于时间的变化率的运动学指标。计算方式为位移除以时间（例如，米/秒，公里/小时）。
 **Verbal cues** Short, concise phrases that direct a performer’s attention to important environmental regulatory characteristics or that prompt the person to perform key movement pattern components of skills.
-
+口头提示（Verbal cues）用简短的语句将操作者的注意力引向重要的环境调节特征或促使其执行关键动作模式的技能组成部分。
 **Vigilance** Maintaining attention in a performance situation in which stimuli requiring a response occur infrequently.
-
+警觉（Vigilance）在刺激所要求的反应偶然发生的操作情景中保持注意力。
 **Visual field** The image or scene being viewed; it typically ­extends approximately 200 degrees horizontally and 160 degrees vertically.
-
+视野（Visual field）被观察的图像或场景；通常水平的视野范围约为200度，垂直平面的视野范围约为160度。
 **Visual search** The process of directing visual attention to ­locate relevant information in the environment that will enable a person to determine how to prepare and perform a skill in a ­specific situation.
-
+视觉搜索（Visual search）是个体将视觉注意指向环境相关信息的过程，可以使操作者明确如何在特定情境中准备和操作技能。
 **Visual selective attention** The process of engaging vision in directing attention to specific environmental information (i.e., cues) that influences the preparation and/or perfor­mance of an action. It is selective because the specific cues attended to must be chosen from among other possible cues in the performance environment. The selective attention process may be active or passive.
-
+视觉选择性注意（Visual selective attention）在视觉活动的参与下，将注意指向环境中的特定信息（如线索），它会影响动作的准备和执行过程。选择性是指注意到的特定线索是从环境的线索中选择出来的。选择性注意过程既可能是主动的过程，也可能是被动的过程。
 ■
 
 **Working memory** A functional system in the structure 
 of memory that operates to temporarily store and use recently presented information; it also serves as a 
 temporary workspace to integrate recently presented 
 information with information retrieved from long-term memory to carry out problem-solving, decision-making, and action-preparation activities.
-
+工作记忆（Working memory）记忆结构的一个功能性成分，用于临时存储和使用最近呈现的信息；它还充当一个临时工作区，对从长时记忆中提取出的信息与最近呈现过的信息进行整合，从而解决问题、做出决策以及为活动做行为上的准备。
