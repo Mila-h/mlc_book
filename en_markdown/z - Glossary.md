@@ -136,11 +136,11 @@ movement.
 
 **Electroencephalography (EEG)** The recording of brain ac‑
 tivity by the detection of electrical activity in specific areas on the surface of the cortex by several surface electrodes placed on a person’s scalp. Brain activity is recorded as *waves,* which are identified on the basis of the speed of the rhythmic activity.
-
+脑电图（Electroencephalography，EEG）通过在头皮上放置的表面电极检测大脑皮层表面特定区域的电活动，从而记录大脑活动。大脑活动被记录为波，根据节律活动的速度来识别。
 **Electromyography (EMG)** A measurement technique that records the electrical activity of a muscle or group of muscles. It indicates the muscle activity.
-
+肌电图（Electromyography，EMG）一种记录肌肉或肌肉群电活动的测量技术。
 **Encoding** A memory process involving the transformation ­of information to be remembered into a form that can be stored in memory.
-
+编码（Encoding）一种将要记忆的信息转换为符合记忆储存形式要求的一种记忆程序。
 **Encoding specificity principle** A memory principle 
 that ­indicates the close relationship between encoding 
 and ­retrieval memory processes. It states that memory 
@@ -148,22 +148,22 @@ test ­performance is directly related to the amount of
 similarity between the practice and the test contexts; 
 that is, the more similarity, the better the test performance 
 will be.
-
+编码特异性原则（Encoding specificity principle）一种表明编码和提取记忆过程之间有密切关系的记忆原则。它指出，记忆测试的成绩与练习和测试背景之间的相似程度直接相关；也就是说，相似度越高，测试成绩越好。
 **Environmental context** The supporting surface, objects, and/or other people or animals involved in the environment in which a skill is performed.
-
+环境背景（Environmental context）技能执行环境中所涉及到的支撑面、物体和/或参与的其他人或动物。
 ■
 
 **Feedback** Information from the sensory system that indicates the status of a movement to the central nervous system. In a closed-loop control system, feedback is used to make correc­tions ­to an ongoing movement.
-
+反馈（Feedback）来自感觉系统的信息，向中枢神经系统指示当前的运动状态，在闭环控制系统中，反馈被用来对进行中的动作进行修正。
 **Fine motor skill** A motor skill that requires control of small muscles to achieve the goal of the skill; typically involves eye-hand coordination and requires a high degree of precision of hand and finger movement.
-
+精细运动技能（Fine motor skill）需要控制小肌肉以达到技能目标的运动技能；通常涉及眼手协调，需要手和手指的高精度动作。
 **Fitts’ law** A human performance law specifying the movement time for an aiming action when the distance to ­move and the target size are known. It is quantified as ­MT = *a* + *b* log2(2 *D/W*), where *a* and *b* are constants ­and *W* = target width, and *D* = distance from the starting point to the target.
-
+菲兹定律（Fitts’ law）一种当移动距离和目标大小已知时就可确定目标动作移动时间的人类活动定律。定量关系表示为MT = *a* + *b* log2(2 *D/W*)，其中a和b是常数，W是目标宽度，D是从起点到目标的距离。
 **Fixation** The learner’s goal in the second stage of learning in Gentile’s model for learning closed skills in which learners refine movement patterns so that they can produce them correctly, consistently, and efficiently from 
 trial to trial.
-
+定型（Fixation）在Gentile的封闭式技能学习模型中学习者在第二阶段学习中的目标。在该阶段中，学习者通过改进动作模型来确保每次尝试中正确、一致、高效地完成动作。
 **fMRI** **(functional magnetic resonance imaging)** A brain ­scanning technique that assesses changes in blood flow by detecting blood oxygenation characteristics while a person is performing a skill or activity in the MRI scanner. It ­provides clear images of active brain areas at a specified time and can provide quantitative information about the levels of brain region activity.
-
+功能性核磁共振成像（functional magnetic resonance imaging，fMRI）是一种大脑扫描技术，当一个人在磁共振扫描仪中执行某项技能或活动时，通过检测血液氧合特征来评估血流变化。它能提供特定时间内大脑活动区域的清晰图像，并能提供有关大脑区域活动水平的定量信息。
 **Foreperiod** In a reaction time paradigm, the time interval ­between a warning signal and the go signal, or stimulus.
 
 **Fractionization** A part-task training method related to ­asymmetric coordination skills that involves practicing ­each arm or leg separately before performing with them ­together.
