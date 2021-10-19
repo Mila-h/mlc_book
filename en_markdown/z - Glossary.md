@@ -165,68 +165,68 @@ trial to trial.
 **fMRI** **(functional magnetic resonance imaging)** A brain ­scanning technique that assesses changes in blood flow by detecting blood oxygenation characteristics while a person is performing a skill or activity in the MRI scanner. It ­provides clear images of active brain areas at a specified time and can provide quantitative information about the levels of brain region activity.
 功能性核磁共振成像（functional magnetic resonance imaging，fMRI）是一种大脑扫描技术，当一个人在磁共振扫描仪中执行某项技能或活动时，通过检测血液氧合特征来评估血流变化。它能提供特定时间内大脑活动区域的清晰图像，并能提供有关大脑区域活动水平的定量信息。
 **Foreperiod** In a reaction time paradigm, the time interval ­between a warning signal and the go signal, or stimulus.
-
+前期（Foreperiod）在一个反应时示例中，警告信号和开始信号或刺激之间的时间间隔。
 **Fractionization** A part-task training method related to ­asymmetric coordination skills that involves practicing ­each arm or leg separately before performing with them ­together.
-
+分解法（Fractionization）一种训练不对称协调技能的部分训练方法，在同时练习两侧手臂和腿之前分别练习每只手臂或每条腿。
 **Freezing the degrees of freedom** Common initial strategy of beginning learners to control the many degrees of freedom associated with the coordination demands of a motor skill; the person holds some joints rigid (i.e., “freezes” them) and/or couples joint motions together in tight synchrony while performing the skill.
-
+冻结自由度（Freezing the degrees of freedom）初学者在开始学习一种运动技能时控制动作协调自由度的常用应对策略。他们执行新技能时关节处于僵硬状态（就像“冻住”了一样）和/或将关节运动紧密同步地耦合在一起。
 ■
 
 **General motor ability hypothesis** A hypothesis that maintains that the many different motor abilities that exist in an individual are highly related and can be characterized in terms of a singular, global motor ability.
-
+ 一般运动能力假说（General motor ability hypothesis）一种认为存在于个体中的许多不同的运动能力高度相关并且这些能力水平可以表征单个整体运动能力的假说。
 **Generalized motor program (GMP)** The memory repre­sentation of a class of actions that share common invariant characteristics. It provides the basis for controlling a specific action within the class of actions.
-
+概括化运动程序（Generalized motor program，GMP）拥有共同固定特征的一类运动技能的记忆表征；它为控制该类运动技能中的具体技能提供了基础。
 **Golgi-tendon organs (GTOs)** A type of proprioceptor located in the skeletal muscle near the insertion of the 
 tendons ­into the muscle; they detect changes in muscle 
 tension, ­or force.
-
+高尔基腱器官（Golgi-tendon organs，GTOs）一种位于骨骼肌中肌腱插入部位附近的本体感受器，可以检测肌肉张力或力量的变化。
 **Gross motor skill** A motor skill that requires the use of large musculature to achieve the goal of the skill.
-
+大肌肉运动技能（Gross motor skill）一种需要使用大肌肉组织来达到技能目标的运动技能。
 **Guidance hypothesis** A hypothesis indicating that the role of augmented feedback in learning is to guide performance toward the goal of the task; however, if it is provided too frequently, it can cause the learner to develop a dependency on its availability and therefore to perform poorly when it is not available.
-
+指导假说（Guidance hypothesis）该假说认为追加反馈在学习中的作用是引导个体操作达到任务目标水平；但是，如果过于频繁地提供追加反馈，可能会导致学习者产生依赖，因此在不提供追加反馈时个体的成绩不佳。
 ■
 
 **Hick’s law** A law of human performance stating that RT will increase logarithmically as the number of stimulus-response choices increases.
-
+希克定律（Hick’s law）是人类操作活动的一个定律，指出随着刺激-响应选择的数量增加RT会以对数关系增加。
 ■
 
 **Identical elements theory** An explanation of positive transfer proposing that transfer is due to the degree of similarity between the component parts or characteristics of two skills or two performance contexts.
-
+相同要素说（Identical elements theory）对正迁移的一种解释，认为迁移的发生取决于两种技能的组成部分或特征之间的相似程度以及两种操作背景的相似程度。
 **Imagery ability** An individual-difference characteristic that differentiates people who can image an action with a high degree of vividness and control from people who have ­difficulty imaging an action.
-
+表象能力（Imagery ability）指人在表象动作时，高度清晰的表象和控制与表象困难之间的个体差异。
 **Index of difficulty (ID)** According to Fitts’ law, a quantitative measure of the difficulty of performing a skill involving both speed and accuracy requirements. It is calculated as the log2 (2 *D/W*), where *W* = target width, and 
 *D* = ­distance from the starting point to the target.
-
+难度指数（Index of difficulty）根据Fitts定律，难度指数是一种既要求速度又要求准确性的对技能难度的定量测量。计算方法为log2 (2 *D/W*)，其中W是目标宽度，D是从起点到目标的距离。
 **Interneurons** Specialized nerve cells that originate and ­terminate in the brain or spinal cord; they function between axons descending from the brain and synapse on motor neurons, and between the axons from sensory nerves and the spinal nerves ascending to the brain.
-
+中间神经元（Interneurons）起源和终止于大脑或脊髓的特殊神经细胞，它们在从大脑下行的轴突和运动神经元的突触之间，以及感觉神经轴突和上行至大脑的脊神经轴突之间发挥作用。
 **Intertrial variability** An environmental characteristic in Gentile’s taxonomy of motor skills. The term refers to whether the regulatory conditions associated with the performance of a skill change or stay the same from one trial to the next.
-
+尝试间变化（Intertrial variability）在Gentile的运动技能分类法中的一种环境特征。指在一种情境或一次练习中进行的技能操作中存在的调节条件，在下一操作情境或练习中出现或不出现的不确定性。
 **Invariant features** A unique set of characteristics that defines a generalized motor program and does not vary from one performance of the action to another.
-
+不变特征（Invariant features）（固定特征）一组独特的特征，可以定义GMP，并且在每次运动执行中都保持不变。
 **Iris** The eye structure that surrounds the pupil and provides the eye its color.
-
+虹膜（Iris）包围瞳孔并决定眼睛颜色的结构。
 ■
 
 **Joint receptors** A collection of various types of proprioceptors located in the joint capsule and ligaments; they detect changes in joint movement at the extreme limits of movement and position.
-
+关节感受器（Joint receptors）位于关节囊和韧带的各种类型本体感受器的统称；他们能够检测关节在到达极限运动和极限位置时的运动变化。
 ■
 
 **Kinematics** The description of motion without regard to force or mass; it includes displacement, velocity, and acceleration.
-
+运动学（Kinematics）不考虑力或质量的运动描述；它包括位移、速度和加速度。
 **Kinetics** The study of the role of force as a cause of motion.
-
+动力学（Kinetics）对作为运动产生原因的力进行的研究
 **Knowledge of performance (KP)** A category of augmented feedback that gives information about the movement characteristics that led to a performance outcome.
-
+操作反馈（Knowledge of performance，KP）一类追加反馈，提供与运动相关的运动特征信息。
 **Knowledge of results (KR)** A category of augmented feedback that gives information about the outcome of an attempt to perform a skill.
-
+结果反馈（Knowledge of results，KR）一类追加反馈，提供关于尝试执行某项技能的结果的信息。
 **KR-delay interval** The interval of time between the completion of a movement and the presentation of augmented feedback.
-
+结果反馈延迟间距（KR-delay interval）从动作完成到提供追加反馈的时间间隔。
 ■
 
 **Learning** A change in the capability of a person to perform a skill. It must be inferred from a relatively permanent improvement in performance as a result of practice or experience.
-
+学习（Learning）一个人执行技能能力的变化。必须通过练习或经历某项技能后，个体绩效相对持久的提高来推断。
 **Lens** The transparent eye structure that sits just behind the iris; it allows the eye to focus at various distances.
-
+晶状体（Lens）位于虹膜后方的透明组织；功能是使眼睛在不同距离聚焦。
 **Limbic system** A group of brain structures consisting of parts of the frontal and temporal lobes of the cerebral cortex, the thalamus and hypothalamus, and the nerve fibers that interconnect these parts and other CNS structures; it is involved in the learning of motor skills.
 
 **Long-term memory** A component system in the structure ­of memory that serves as a relatively permanent storage repository for information.
