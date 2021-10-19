@@ -53,27 +53,27 @@ involving physiological, emotional, and mental systems. Terms such as *anxiety* 
 ■
 
 **Central-resource theories of attention** Attention-capacity theories that propose one central source of attentional resources for which all activities requiring attention compete.
-
+注意的中心资源理论（Central-resource theories of attention）人们完成各种活动时所需要的注意资源都源于同一个中心源。
 **Central vision** The middle 2 to 5 degrees of the visual field; it is sometimes called foveal vision.
-
+中央视觉（Central vision）视野中间2到5度的视觉范围，有时被称为中心凹视力。
 **Cerebellum** A brain structure located behind the cerebral hemispheres and attached to the brainstem; it is covered by the cerebellar cortex and is divided into two hemispheres; it plays a key role in the execution of smooth and accurate movements.
-
+小脑（Cerebellum）位于大脑半球后面并附着于脑干的大脑结构；它被小脑皮质覆盖，分为两个半球；它在保障动作执行的流畅性和准确性中起着关键作用。
 **Cerebral cortex** The undulating, wrinkly, gray-colored surface of the cerebrum; it is a thin tissue of nerve cell bodies (about 2 to 5 mm thick) called gray matter.
-
+大脑皮层（Cerebral cortex）大脑起伏、起皱、灰色的表面；它是一种由称为灰质的神经细胞体组成的薄组织（约2至5毫米厚）。
 **Cerebrum** A brain structure in the forebrain that consists of two halves, known as the right and left cerebral hemispheres.
-
+大脑（Cerebrum）前脑中的一种脑结构，由左、右两个大脑半球组成。
 **Choice RT** The reaction time when the situation involves more than one signal and each signal requires its own ­specified response.
-
+选择反应时（Choice RT）涉及多个信号且每个信号都需要特定响应的反应时。
 **Closed-loop control system** A system of control in which during the course of an action, feedback is compared against a standard or reference to enable an action to be carried out as planned.
-
+闭环控制系统（Closed-loop control system）一种控制系统，在动作过程中将反馈与标准或参考进行比较，以使动作按计划执行。
 **Closed motor skill** A motor skill performed in a stationary environment where the performer determines when to begin the action.
-
+闭锁性运动技能（Closed motor skill）在固定环境中进行的运动技能，由执行者决定何时开始。
 **Cognitive mediation theory** A theory for explaining the benefit of a demonstration proposing that when a person observes a skilled model, the person translates the observed movement information into a cognitive code that the person stores in memory and uses when the observer performs the skill.
-
+认知调解理论（Cognitive mediation theory）解释示范利于学习的一种理论。该理论认为，当个体观察一个熟练的模型时会将观察到的动作信息转换成认知编码，存储在记忆中，并在个体执行这一技能时使用。
 **Cognitive stage** The first stage of learning in the Fitts and Posner model. The beginning or initial stage on the learning continuum.
-
+认知阶段（Cognitive stage）在Fitts和Posner模型中学习的第一阶段。指连续学习阶段的开始阶段。
 **Complexity** The number of parts or components and the degree of information processing that characterize a skill; more-complex skills have more component parts and greater information-processing demands than less-complex skills.
-
+复杂度（Complexity）是指构成一项技能的部分或元素的数量及技能需要进行信息加工的数量；复杂的技能比不复杂的技能具有更多的组成部分和更高的信息处理需求。
 **Concurrent augmented feedback** Augmented feedback that is provided while a person is performing a skill or making a movement.
 
 **Cones** One of two types of photoreceptors in the retina; they detect bright light and play critical roles in central vision, visual acuity, and color vision.
