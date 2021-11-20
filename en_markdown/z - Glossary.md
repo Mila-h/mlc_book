@@ -26,13 +26,13 @@ Glossary
 **Attention** In human performance, characteristics associated with consciousness, awareness, and cognitive effort as they relate to the performance of skills. Of particular interest are limitations associated with these characteristics on the simultaneous performance of multiple skills and the detection of relevant information in the performance environment.
 注意力（Attention）人们在运动技能执行过程中与知觉、意识以及认知努力相关的特征。这些特征让人特别感兴趣的地方在于其有限性，即人们在同时执行多种技能以及在执行环境中发现相关信息时会受到限制。
 **Attentional focus** The directing of attention to specific characteristics in a performance environment, or to action preparation activities.
-注意焦点（Attention focus）将注意力指向到动作执行环境中的特定特征或动作准备活动。
+注意力聚焦（Attentional focus）将注意力指向到动作执行环境中的特定特征或动作准备活动。
 **Attractors** The stable behavioral steady states of systems. In terms of human coordinated movement, attractors characterize preferred behavioral states, such as the in-phase and antiphase states for rhythmic bimanual finger movements.
 吸引子（Attractors）系统稳定的行为稳定状态。对于人体协调运动来说，吸引子表征了偏好的行为状态，如双手手指节律性运动中的同相和反相状态。
 **Augmented feedback** A  generic term used to describe information about a performance that supplements the sensory feedback and comes from a source external to the performer; it is sometimes referred to as *extrinsic* or *external* feedback.
 追加反馈（Augmented feedback）用于描述与技能表现相关的感觉反馈之外的附加信息，来自执行者外部的信息源；有时也被称为外在（extrinsic）或外部（external）反馈。
 **Automaticity** The term used to indicate that a person performs a skill, or engages in certain information-processing activities, with little or no demands on attention capacity.
-自动性（Automaticity）指人们执行某种运动技能或信息处理活动时对注意力要求很少或没有要求。
+自动化（Automaticity）指人们执行某种运动技能或信息处理活动时对注意力要求很少或没有要求。
 **Autonomous stage** The third stage of learning in the Fitts and Posner model. The final stage on the learning continuum. Also called the *automatic stage.*
 自主阶段（Autonomous stage）也称为自动化阶段（automatic stage），在Fitts和Posner模型中学习的第三阶段，连续学习阶段的最后阶段。
 **Axons** Extensions from a neuron’s cell body that transmit neural impulses to other neurons, structures in the CNS, or muscles; a neuron has only one axon, although most axons branch into many branches. Also called *nerve fibers.*
